@@ -53,9 +53,7 @@
   .logo{
     margin-left: 20px;
   }
-  /* .brgr{
-    display: none;
-  } */
+  
   .nav-btn{
     display: none;
   }
@@ -71,6 +69,7 @@
   }
   .left{
     width: 520px;
+    margin-left: 200px;
   }
   .video{
     width: 520px;
@@ -126,8 +125,9 @@
 .brgr{
   display: none;
 }
+
 .nav{
-  gap: 370px;
+  gap: 380px;
 }
 }
 
