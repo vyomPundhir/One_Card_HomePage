@@ -42,6 +42,30 @@
   .nav-btn{
     display: none;
   }
+
+  .drk{
+    background-color: white;
+    margin-left: 80px;
+  }
+  .drk1{
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .des-1{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+  }
+  .des-2{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+  }
+  .des-3{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+  }
 }
 
 @media (501px <= width <= 551px){
@@ -74,6 +98,30 @@
   .video{
     width: 520px;
   }
+  .drk{
+    background-color: white;
+    margin-left: 140px;
+  }
+  .drk1{
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .des-1{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+  }
+  .des-2{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+  }
+  .des-3{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+  }
+
 }
 
 @media (551px <= width <= 801px){
