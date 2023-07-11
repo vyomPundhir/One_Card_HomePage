@@ -1,0 +1,131 @@
+@media (0px <= width <= 501px){
+  .hero{
+    margin-left: 70px;
+    margin-top: -20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+  }
+  .left{
+    width: 450px;
+    margin-right: 13px;
+  }
+  .video{
+    width: 450px;
+  }
+
+  .nav{
+    width: 480px;
+    margin-left: 10px;
+    justify-content: flex-start;
+    gap: 370px;
+  }
+  .logo{
+    margin-left: 20px;
+  }
+  .brgr{
+    width: 30px;
+    margin-right: 20px;
+  }
+
+  .lo{
+    font-size: 20px;
+  }
+  .go{
+    font-size: 20px;
+  }
+  .nav-item{
+    display: none;
+  }
+  .nav-btn{
+    display: none;
+  }
+}
+
+@media (501px <= width <= 551px){
+  .nav{
+    width: 665px;
+    justify-content: flex-start;
+    gap: 550px;
+  }
+  .logo{
+    margin-left: 20px;
+  }
+  /* .brgr{
+    display: none;
+  } */
+  .nav-btn{
+    display: none;
+  }
+  .nav-item{
+    display: none;
+  }
+  .hero{
+    margin-left: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .left{
+    width: 520px;
+  }
+  .video{
+    width: 520px;
+  }
+}
+
+@media (551px <= width <= 801px){
+  .brgr{
+    display: none;
+  }
+  .nav{
+    gap: 80px;
+  }
+  .nav-btn{
+    margin-right: 5px;
+  }
+  .logo{
+    margin-left: 5px;
+  }
+}
+
+@media (801px <= width <= 1050px){
+  .brgr{
+    display: none;
+  }
+  .nav{
+    gap: 220px;
+  }
+  .nav-btn{
+    margin-right: 5px;
+  }
+  .logo{
+    margin-left: 5px;
+  }
+}
+
+@media (1050px <= width <= 1200px){
+  .brgr{
+    display: none;
+  }
+  .nav{
+    gap: 350px;
+  }
+  .nav-btn{
+    margin-right: 5px;
+  }
+  .logo{
+    margin-left: 5px;
+  }
+}
+
+@media (width >=1200px){
+.brgr{
+  display: none;
+}
+}
+
+
