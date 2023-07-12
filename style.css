@@ -179,7 +179,7 @@
 }
 }
 
-/* @media (901px <= width <= 1001px){
+@media (901px <= width <= 1001px){
   .ftr{
     height: 360px;
     
@@ -324,6 +324,6 @@
     margin-top: 0px;
     margin-left: 54px;
   }
-} */
+}
 
 
